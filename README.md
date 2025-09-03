@@ -1,4 +1,4 @@
-![codewars](https://www.codewars.com/users/srgxzhrv/badges/large)
+https://www.codewars.com/users/srgxzhrv/badges/large
 
 <!--
 **srgxzhrv/srgxzhrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
